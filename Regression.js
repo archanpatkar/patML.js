@@ -53,6 +53,31 @@ function LinearRegression(points)
             };
 }
 
+function LinearGradientDescent(points,learning_rate)
+{
+    let [x,y] = Separate(points);
+    let m = 1;
+    let b = 0;
+    for(let i in x)
+    {
+        let xi = x[i];
+        let yi = y[i];
+
+        // Guessing the Value
+        let guess = m * xi + b;
+
+        // Calculating the error
+        let error = yi - guess;
+
+        m += (error * xi) * learning_rate;
+        b += (error) * learning_rate;
+    }
+    return  {
+                m: m,
+                b: b
+            };
+}
+
 class LinearModel
 {
     constructor(points)
@@ -124,6 +149,8 @@ module.exports.predict = predict;
 // Linear Regression using Array of Points it will return Model Object can predict values using predict function
 module.exports.LinearRegression = LinearRegression;
 
-// Complete Model
+// Linear Regression with Gradient Descent using Array of Points it will return Model Object can predict values using predict function
+module.exports.LinearGradientDescent = LinearGradientDescent;
 
+// Complete Model
 module.exports.LinearModel = LinearModel;
