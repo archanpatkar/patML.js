@@ -12,5 +12,5 @@
 
 ## Classifiers
 
-- `Linear Classifiers`
-  1. `Perceptron`
+- `Perceptron`
+- `Multi Layer Perceptron` (Under Construction)
