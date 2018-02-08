@@ -6,7 +6,7 @@
 
 ## Regression
 
-- `Linear Regression with OLM`
+- `Linear Regression with Least Squares Method`
 - `Linear Regression with Gradient Descent`
 - `Multivariate Linear Regression` (Under Construction)
 
