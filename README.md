@@ -2,15 +2,17 @@
 ## A Library for Machine Learning
 
 
-> All Algorithms are Implemented from Scratch
+> All Algorithms are Implemented from Scratch in Javascript
 
 ## Regression
 
-- `Linear Regression with Ordinary Least Square Method`
+- `Linear Regression with Ordinary Least Squares Method`
 - `Linear Regression with Gradient Descent`
-- `Multivariate Linear Regression` (Under Construction)
+- `Multiple Linear Regression` (Under Construction)
 
 ## Classifiers
 
 - `Perceptron`
-- `Multi Layer Perceptron` (Under Construction)
+- `Neural Networks` (Under Construction)
+- `Naive Bayes` (Under Construction)
+- `Logistic Regression` (Under Construction)
