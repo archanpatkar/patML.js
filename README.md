@@ -14,5 +14,5 @@
 
 - `Perceptron`
 - `Neural Networks` (Under Construction)
-- `Naive Bayes` (Under Construction)
+- `Naive Bayes`
 - `Logistic Regression` (Under Construction)
