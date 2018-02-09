@@ -8,7 +8,7 @@
 
 - `Linear Regression with Ordinary Least Squares Method`
 - `Linear Regression with Gradient Descent`
-- `Multiple Linear Regression` (Under Construction)
+- `Multivariate Linear Regression` (Under Construction)
 
 ## Classifiers
 
