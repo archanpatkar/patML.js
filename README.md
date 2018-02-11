@@ -13,7 +13,7 @@
 ## Classifiers
 
 - `Perceptron`
-- `Logistic Regression` (Under Construction)
-- `Artificial Neural Networks(ANN)` (Under Construction)
+- `Artificial Neural Networks(ANN)`
 - `Naive Bayes`
 - `k - Nearest Neighbors(kNN)`
+- `Logistic Regression` (Under Construction)
