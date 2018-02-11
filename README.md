@@ -14,6 +14,6 @@
 
 - `Perceptron`
 - `Logistic Regression` (Under Construction)
-- `Neural Networks` (Under Construction)
+- `Artificial Neural Networks(ANN)` (Under Construction)
 - `Naive Bayes`
 - `k - Nearest Neighbors(kNN)`
