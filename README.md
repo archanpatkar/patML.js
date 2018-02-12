@@ -16,4 +16,5 @@
 - `Artificial Neural Networks(ANN)`
 - `Naive Bayes`
 - `k - Nearest Neighbors(kNN)`
+- `Learning Vector Quantization(LVQ)`
 - `Logistic Regression` (Under Construction)
