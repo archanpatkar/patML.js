@@ -18,3 +18,8 @@
 - `k - Nearest Neighbors(kNN)`
 - `Learning Vector Quantization(LVQ)`
 - `Logistic Regression` (Under Construction)
+
+## Clustering
+
+- `k Means` (Under Construction)
+- `k Medain` (Under Construction)
