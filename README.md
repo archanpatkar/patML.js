@@ -30,3 +30,4 @@
 - `Artificial Neural Network(ANN)`
 - `Convolutional Neural Network(CNN/CovNet)` (Under Construction)
 - `Recurrent Neural Network(RNN)` (Under Construction)
+- `Deep Q Learning(DQN)` (Under Construction)
