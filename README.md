@@ -2,7 +2,7 @@
 ## A Library for Machine Learning
 
 
-> All Algorithms are Implemented from Scratch in Javascript
+> All Algorithms are Implemented from Scratch using [patNum.js](https://github.com/archanpatkar/patNum.js) and Javascript
 
 ## Regression
 
@@ -21,3 +21,8 @@
 ## Deep Learning
 
 - `Artificial Neural Network(ANN)`
+
+
+# Documentation
+
+### Documentation Underconstruction! 👷
