@@ -2,7 +2,7 @@
 ## A Library for Machine Learning
 
 
-> All Algorithms are Implemented from Scratch using [patNum.js](https://github.com/archanpatkar/patNum.js) and Javascript
+> All Algorithms are Implemented from Scratch only using [patNum.js](https://github.com/archanpatkar/patNum.js) and Javascript
 
 ## Regression
 
