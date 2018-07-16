@@ -1,6 +1,5 @@
 # patML.js
-## A Library for Machine Learning
-
+## A Set of Machine Learning Algorithms
 
 > All Algorithms are Implemented from Scratch only using [patNum.js](https://github.com/archanpatkar/patNum.js) and Javascript
 
