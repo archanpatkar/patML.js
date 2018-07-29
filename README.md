@@ -15,7 +15,7 @@
 - `Naive Bayes`
 - `k - Nearest Neighbors(kNN)`
 - `Learning Vector Quantization(LVQ)`
-- `Logistic Regression` (Under Construction)
+- `Logistic Regression`
 
 ## Deep Learning
 
