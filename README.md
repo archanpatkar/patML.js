@@ -1,7 +1,7 @@
 # patML.js
 ## A Set of Machine Learning Algorithms
 
-> All Algorithms are Implemented from Scratch only using [patNum.js](https://github.com/archanpatkar/patNum.js)
+> All Algorithms are Implemented from Scratch using [patNum.js](https://github.com/archanpatkar/patNum.js)
 
 ## Regression
 
